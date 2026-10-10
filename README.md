@@ -7,5 +7,5 @@ profile that appears at https://github.com/Mvua-Protocol is rendered from
 Mvua Protocol is parametric climate insurance on Stellar. For the protocol itself see
 [mvua-contract](https://github.com/Mvua-Protocol/mvua-contract), for the interface see
 [mvua-app](https://github.com/Mvua-Protocol/mvua-app), for the oracle publisher see
-[mvua-publisher](https://github.com/Mvua-Protocol/mvua-publisher) and for the documentation see
-[mvua-site](https://github.com/Mvua-Protocol/mvua-site).
+[mvua-publisher](https://github.com/Mvua-Protocol/mvua-publisher) and for the live site and docs see
+[mvua-site.vercel.app](https://mvua-site.vercel.app), built from [mvua-site](https://github.com/Mvua-Protocol/mvua-site).

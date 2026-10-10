@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://mvua-site.vercel.app"><img src="https://img.shields.io/badge/website-live-1E4D74" alt="Website: mvua-site.vercel.app"></a>
   <img src="https://img.shields.io/badge/License-MIT-12324E" alt="License: MIT">
   <img src="https://img.shields.io/badge/Stellar-testnet-2E86C1" alt="Network: Stellar testnet">
   <img src="https://img.shields.io/badge/built_with-Soroban-0E4E7E" alt="Built with Soroban">
@@ -12,6 +13,8 @@
 # Mvua Protocol
 
 Parametric climate insurance on Stellar. When on chain weather data says the season failed, the payout is already on its way.
+
+Live at [mvua-site.vercel.app](https://mvua-site.vercel.app).
 
 ## What Mvua is
 
@@ -50,7 +53,7 @@ Pre alpha, live on Stellar testnet. The contract core is written, tested and rel
 
 ## Documentation
 
-The protocol reference, the index science with a worked example and the trust model are documented at [mvua.site](https://mvua.site).
+The protocol reference, the index science with a worked example and the trust model are documented at [mvua-site.vercel.app](https://mvua-site.vercel.app).
 
 ---
 
