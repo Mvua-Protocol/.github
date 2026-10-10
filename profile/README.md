@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="banner.svg" alt="Mvua Protocol: parametric climate insurance on Stellar" width="820">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-12324E" alt="License: MIT">
+  <img src="https://img.shields.io/badge/Stellar-testnet-2E86C1" alt="Network: Stellar testnet">
+  <img src="https://img.shields.io/badge/built_with-Soroban-0E4E7E" alt="Built with Soroban">
+  <img src="https://img.shields.io/badge/status-pre--alpha-C96A43" alt="Status: pre-alpha">
+</p>
+
 # Mvua Protocol
 
 Parametric climate insurance on Stellar. When on chain weather data says the season failed, the payout is already on its way.
