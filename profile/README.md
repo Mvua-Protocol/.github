@@ -49,7 +49,9 @@ Every decision the protocol makes is a function of public inputs: the signed rai
 
 ## Project status
 
-Pre alpha, live on Stellar testnet. The contract core is written, tested and released; a first full season is running against real wall clock time. Mainnet is gated behind an external security audit and a full beta season operated like production. An insurance product that pays the wrong amount is worse than one that does not exist yet, so the launch is earned one step at a time.
+Pre alpha, live on Stellar testnet. The contract core is written, tested and released; a first full season has settled end to end against real wall clock time, matching the golden vector (severity 2857 bps, payout 2857000). Mainnet is gated behind an external security audit and a full beta season operated like production. An insurance product that pays the wrong amount is worse than one that does not exist yet, so the launch is earned one step at a time.
+
+The deployed contract addresses and the on chain proof of that season are on the [testnet deployment page](https://mvua-site.vercel.app/docs/reference/deployment).
 
 ## Documentation
 
